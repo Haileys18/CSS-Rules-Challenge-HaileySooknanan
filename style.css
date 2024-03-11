@@ -1,0 +1,22 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+body{
+  background-color: beige;
+}
+p,h5{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: #890606;
+  border: 2px dotted whitesmoke;
+}
+h1,h3,h2{
+  font-family: 'Times New Roman', Times, serif;
+  color: darkolivegreen;
+  text-decoration: underline;
+}
+img{
+  border: 5px solid #9d0101;
+  background-color: white;
+}
